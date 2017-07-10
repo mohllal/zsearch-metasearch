@@ -1,0 +1,77 @@
+403b,plan,retirement,invest
+cheilitis,inflammation,mouth
+pocono,pennsylvania,raceway
+figs,fruit of fig tree
+last,final
+supper,meal
+painting,artwork
+university,college
+phoenix,arizona
+beatles,lennon and mccartney
+rock,rock and roll
+band,group
+septic,sewage
+system,solution
+design,plan
+porterville,california
+grilling,barbecue,cooking
+furniture,tables,chairs
+small,tiny
+spaces,areas
+hobby,passtime
+stores,shopping
+hummingbird,moth
+programming,coding
+barbados,caribbean,antilles
+lipoma,fatty,skin,tumor
+battles,wars
+civil,public
+war,battle
+scooters,moped,vespa
+paralegal,assistant,lawyer
+hip,hip joint
+fractures,breaks
+art,drawing,painting
+signs,symbols,symptoms
+heartattack,cardiac arrest,myocardial infarction
+weather,climate,forecast
+strip,line
+best,top
+long,lasting
+term,time
+care,help,support
+insurance,policy,company
+pork,pig,bacon
+tenderloin,chop,cuts,meat
+black,negro
+history,past
+newyork,big apple
+hotels,accommodation
+old,vintage
+coins,currency
+quit,give up,stop
+smoking,tobacco,nicotine
+city,regional center
+right,correct
+movement,campaign
+credit,loan,debt
+report,summary
+internet,web
+phone,telephone
+service,utility
+pay,buy
+rate,scale
+clearance,sale
+condos,apartments
+dog,puppy
+bags,handbags
+designer,stylish
+breeds,races
+washers,cleaners
+sore,painful
+throat,tonsils
+state,county
+flower,bloom
+fairgrounds,attractions
+fybromyalgia,fatigue,pain,symptoms,
+airport,air terminal
